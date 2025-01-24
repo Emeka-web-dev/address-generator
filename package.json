@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "keccak": "^3.0.4",
+    "secp256k1": "^5.0.1"
+  }
+}
